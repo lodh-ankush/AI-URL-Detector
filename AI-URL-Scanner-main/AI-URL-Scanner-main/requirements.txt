@@ -1,0 +1,9 @@
+urllib3==1.26.16
+validators==0.22.0
+taipy==3.0.0
+pandas==2.2.1
+Requests==2.31.0
+python-dotenv==1.0.1
+
+
+
